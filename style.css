@@ -3,6 +3,8 @@
     margin: auto;
     height: 40vw;
     width: 40vw;
+    height: 440px;
+    width: 440px;
     background: url("clock.png") no-repeat;
     background-size: 100%;
 }
@@ -25,7 +27,7 @@
 #minute{
     width: 1.2%;
     height: 25%;
-    top: 26%;
+    top: 25%;
     left: 49.1%;
     opacity: 0.8;
 }
